@@ -1,7 +1,7 @@
 from pathlib import Path
 
 # Uses Path  to find pi_digits  file, then reads and strips the contents and prints output
-path = Path('learning_python.txt')
+path = Path('Chapter_10_Files_and_Exceptions/text_files/learning_python.txt')
 contents = path.read_text().rstrip()
 print(contents)
 
