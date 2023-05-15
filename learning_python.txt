@@ -1,0 +1,5 @@
+I've learned a lot of things about Python!
+From the basics such as if/else statements, looping, data structures like lists, dictionaries, etc
+to more advanced topics such as classes, inheritance, the magic methods, and the immense community resources
+I hope to be a profecient python programmer, and maybe delve into other languages in well!
+Happy coding~
