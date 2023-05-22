@@ -15,6 +15,7 @@ for g_word in guest_amt:
     guest_name = input(f"Who is the {g_word} guest? ")
     guest_list.append(guest_name)
 
+
 make_guest_list = Path('Chapter_10_Files_and_Exceptions/text_files/guest_list.txt').open('a')
 for guest in guest_list:
     make_guest_list.write(f"{guest}\n")
